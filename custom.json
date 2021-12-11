@@ -1,0 +1,35 @@
+{
+    "editor.fontLigatures": true,
+    "editor.tokenColorCustomizations": {
+        "[Dracula]": {
+            "textMateRules": [
+                {
+                    "scope": "entity.name.function",
+                    "settings": {
+                        "foreground": "#8BE9FD",
+                    }
+                },
+                {
+                    "scope": "storage",
+                    "settings": {
+                        "foreground": "#ff8fc7",
+                    }
+                },
+                {
+                    "scope": "keyword",
+                    "settings": {
+                        "foreground": "#ff8fc7"
+                    }
+                }
+            ]
+        }
+    },
+    "indentRainbow.colors": [
+        "rgba(157, 78, 221, 0.1)",
+        "rgba(123, 44, 191, 0.1)",
+        "rgba(90, 24, 154, 0.1)",
+        "rgba(60, 9, 108, 0.1)",
+        "rgba(36, 0, 70, 0.1)",
+    ],
+    "editor.cursorSmoothCaretAnimation": true,
+}

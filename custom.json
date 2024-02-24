@@ -1,5 +1,13 @@
 {
+    "json.validate.enable": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Jetbrains Mono, 'Courier New', monospace",
     "editor.fontLigatures": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "powermode.enabled": true,
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/phungviet/Documents/vscode/custom/custom.css"
+    ],
     "editor.tokenColorCustomizations": {
         "[Dracula]": {
             "textMateRules": [
@@ -18,7 +26,7 @@
                 {
                     "scope": "keyword",
                     "settings": {
-                        "foreground": "#ff8fc7"
+                        "foreground": "#ff8fc7",
                     }
                 }
             ]
@@ -31,5 +39,15 @@
         "rgba(60, 9, 108, 0.1)",
         "rgba(36, 0, 70, 0.1)",
     ],
-    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.lineHeight": 20,
+    "editor.renderWhitespace": "none",
+    "powermode.combo.location": "statusbar",
+    "powermode.combo.counterEnabled": "hide",
+    "powermode.combo.timerEnabled": "hide",
+    "powermode.shake.enabled": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "code-runner.runInTerminal": true,
+    "editor.fontSize": 15,
+    "workbench.colorTheme": "Dracula",
 }

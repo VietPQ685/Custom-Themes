@@ -50,4 +50,6 @@
     "code-runner.runInTerminal": true,
     "editor.fontSize": 15,
     "workbench.colorTheme": "Dracula",
+    "powermode.shake.enabled": false,
+    "editor.linkedEditing": true,
 }

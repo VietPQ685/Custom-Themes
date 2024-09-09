@@ -4,7 +4,7 @@
 call plug#begin('~/AppData/Local/nvim/plugged')
 
 " Theme
-  Plug 'Mofiqul/dracula.nvim',                  " Dracula Theme
+  Plug 'Mofiqul/dracula.nvim'                  " Dracula Theme
   Plug 'akinsho/bufferline.nvim', { 'tag': '*' }
 
 " File browser

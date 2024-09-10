@@ -1,4 +1,4 @@
-" tham khảo của Vũ Nguyễn Coder
+" tham khảo của Vũ Nguyễn Coder và NeuralNine
 
 
 " basic settings

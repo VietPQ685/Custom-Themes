@@ -1,7 +1,9 @@
 # custom-VSCode
 
 > Đây là những plug custom NVim của Việt, nó được dựa trên các custom của Vũ Nguyễn Coder và Neural Nine
-> Đây là link video Youtube của Vũ Nguyễn Coder: `https://youtu.be/Tp8i1EHsQ1Q?si=Kwv3cmigrQ8rG_wO` \n
+
+> Đây là link video Youtube của Vũ Nguyễn Coder: `https://youtu.be/Tp8i1EHsQ1Q?si=Kwv3cmigrQ8rG_wO`
+
 > Đây là link video Youtube của NeuralNine: `https://youtu.be/JWReY93Vl6g?si=r6aDK_4rlVAFeEob`
 
 

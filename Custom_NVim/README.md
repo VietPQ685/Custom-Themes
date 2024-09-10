@@ -9,9 +9,9 @@
 
 # Sau đây là các bước hướng dẫn
 - Cài `NeoVim` (có thể xem hướng dẫn trên mạng tùy theo hệ điều hành mà có các cách tải khác nhau)
-- Trước hết tạo Folder `nvim` (\*\*ví dụ\*\* đường dẫn: `~/.config/nvim`)
+- Trước hết tạo Folder `nvim` (\*\*ví dụ\*\* đường dẫn: `~/.config/nvim` hoặc `AppData/Local/nvim`)
 - Tải các File `init.vim`, `coc_settings.json` và Foler `settings` và để tất cả vào Folder `nvim` bên trên
-- Trong Folder `nvim` tạo một Folder `plugger`
+- Trong Folder `nvim` tạo một Folder `plugged`
 - Sau đó cài `git`, `nodejs`, `python` (có thể xem hướng dẫn trên mạng vẫn ok)
 - Tiếp đến là cài Vim-Plug, vào link `https://github.com/junegunn/vim-plug` và kéo xuống phần `Installation`, xong cài theo hệ điều hành đang dùng
 - Sau đó vào File `init.vim` bên trong Folder `nvim` đã tạo bằng nvim (\*Ví dụ\*: `nvim ~/.config/nvim/init.vim` đây là dòng lệnh mở File init.vim bằng nvim ở bên trong Kali Terminal)

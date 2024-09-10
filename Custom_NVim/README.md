@@ -26,5 +26,4 @@
 - Tiếp đến là cài Vim-Plug, vào link `https://github.com/junegunn/vim-plug` và kéo xuống phần `Installation`, xong cài theo hệ điều hành đang dùng
 - Sau đó vào File `init.vim` bên trong Folder `nvim` đã tạo bằng nvim (\*Ví dụ\*: `nvim ~/.config/nvim/init.vim` đây là dòng lệnh mở File init.vim bằng nvim ở bên trong Kali Terminal)
 - Gõ `:PlugInstall` để tải các plugin (`:PlugUpdate` để update các plugin, `:PlugClean` để xóa các plugin không dùng)
-
-  ### Nhớ phải thay đổi các đường dẫn bên trong File `init.vim` nha!!!
+### Nhớ phải thay đổi các đường dẫn bên trong File `init.vim` nha!!!

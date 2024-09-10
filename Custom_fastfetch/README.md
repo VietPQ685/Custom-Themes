@@ -5,7 +5,7 @@
 
 
 # Add/Remove fastfetch
-- In Folder home, find .bashrc
+- In Folder home, find file `.bashrc`
 - Write `fastfetch` at the end of the file to display fastfetch when open Terminal
 - Delete `fastfetch` if you want to remove it
 

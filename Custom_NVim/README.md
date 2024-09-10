@@ -1,4 +1,4 @@
-# custom-VSCode
+# Custom-NVim
 
 > Đây là những plug custom NVim của Việt, nó được dựa trên các custom của Vũ Nguyễn Coder và Neural Nine
 

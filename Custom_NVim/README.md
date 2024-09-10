@@ -8,7 +8,7 @@
 
 
 # Sau đây là các bước hướng dẫn
-- Cài `NeoVim` (có thể xem hướng dẫn trên mạng tùy theo hệ điều hành mà có các cách tải khác nhau)
+- Cài `NeoVim` (có thể xem hướng dẫn trên mạng, \*Ví dụ trên Kali\*: `sudo apt install neovim`)
 - Trước hết tạo Folder `nvim` (\*\*ví dụ\*\* đường dẫn: `~/.config/nvim` hoặc `AppData/Local/nvim`)
 - Tải các File `init.vim`, `coc_settings.json` và Foler `settings` và để tất cả vào Folder `nvim` bên trên
 - Trong Folder `nvim` tạo một Folder `plugged`

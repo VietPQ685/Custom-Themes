@@ -13,7 +13,7 @@
 - Tải các File `init.vim`, `coc_settings.json` và Foler `settings` và để tất cả vào Folder `nvim` bên trên
 - Trong Folder `nvim` tạo một Folder `plugged`
 - Sau đó cài `git`, `nodejs`, `python` (có thể xem hướng dẫn trên mạng vẫn ok)
-> Link hướng dẫn cài git của anh Việt Nguyễn It: https://youtu.be/gxYajhD2bOE?si=qfZNXYbdfqEstS0l
+> Link hướng dẫn cài git của anh Việt Nguyễn IT: `https://youtu.be/gxYajhD2bOE?si=qfZNXYbdfqEstS0l`
 
 > Python thì cứ lên web xong cài như bình thường là được
 

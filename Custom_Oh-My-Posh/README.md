@@ -1,7 +1,9 @@
 # Custom_Oh-My-Posh
 
 ## Install Oh My Posh
-
+```
+sudo apt install wget
+```
 ```
 sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/local/bin/oh-my-posh
 ```
@@ -15,6 +17,9 @@ sudo chmod +x /usr/local/bin/oh-my-posh
 
 
 ## Download and Install Ohmyposh Themes
+```
+sudo apt install unzip
+```
 ```
 mkdir ~/.poshthemes
 ```

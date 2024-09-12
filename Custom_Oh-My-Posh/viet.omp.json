@@ -84,7 +84,7 @@
           "properties": {
             "always_enabled": true
           },
-          "template": "<green><b>\u26a1</b>", // hình tia sét // you can change this
+          "template": "<green><b>\u26a1</b>",
           "type": "text"
         }
       ],

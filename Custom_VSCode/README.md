@@ -3,7 +3,7 @@
 - Open `VSCode` and go to `Settings` (`Ctrl + ,`)
 - Clink `Open Settings (JSON)`
 - Open file [`settings`](https://github.com/VietPQ685/custom-themes/blob/main/Custom_VSCode/settings.json) copy all and paste to file `settings.json`
-- Creat file `custom.css` in `C:/Users/phungviet/Documents/vscode/custom`
+- Create file `custom.css` in `C:/Users/phungviet/Documents/vscode/custom`
 - Open file [`custom`](https://github.com/VietPQ685/custom-themes/blob/main/Custom_VSCode/custom.css) copy all and paste to file `custom.css`
 
 

@@ -47,3 +47,8 @@ rm ~/.poshthemes/themes.zip
 ```
 eval "$(oh-my-posh init bash --config ~/.poshthemes/viet.omp.json)"
 ```
+
+## Some special things are used
+- Powerline Symbol
+- Unicode Character
+- Hex Color Code

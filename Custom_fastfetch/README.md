@@ -1,12 +1,21 @@
 # Install/Remove fastfetch
-- Install fastfetch: `sudo apt install fastfetch`
-- Get config file: `fastfetch --gen-config`
-- Config file in `~/.config/fastfetch`
+- Install fastfetch:
+```
+sudo apt install fastfetch
+```
+- Get config file:
+```
+fastfetch --gen-config
+```
+- Config file will be in `~/.config/fastfetch`
 
 
 # Add/Remove fastfetch
 - In Folder home, find file `.bashrc`
-- Write `fastfetch` at the end of the file to display fastfetch when open Terminal
+- Write the following text at the end of the file to display fastfetch when opening Terminal
+```
+fastfetch
+```
 - Delete `fastfetch` if you want to remove it
 
 

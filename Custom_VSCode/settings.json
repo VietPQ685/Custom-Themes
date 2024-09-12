@@ -1,7 +1,7 @@
 {
     "json.validate.enable": false,
     "workbench.iconTheme": "material-icon-theme",
-    "editor.fontFamily": "Jetbrains Mono, 'Courier New', monospace",
+    "editor.fontFamily": "JetBrainsMono Nerd Font, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "powermode.enabled": true,

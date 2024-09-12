@@ -9,7 +9,9 @@
       "type": "title",
       "color": {"user": "italic_blue", "at": "italic_white", "host": "italic_blue"},
     },
+    "break",
     "separator",
+    "break",
     {
       "type": "os",
       "keyColor": "blue",
@@ -50,10 +52,6 @@
     },
     {
       "type": "terminal",
-      "keyColor": "blue",
-    },
-    {
-      "type": "weather",
       "keyColor": "blue",
     },
     "break",

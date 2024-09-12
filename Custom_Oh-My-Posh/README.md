@@ -24,10 +24,7 @@ sudo apt install unzip
 mkdir ~/.poshthemes
 ```
 ```
-wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download
-```
-```
-themes.zip -O ~/.poshthemes/themes.zip
+wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/themes.zip -O ~/.poshthemes/themes.zip
 ```
 ```
 unzip ~/.poshthemes/themes.zip -d ~/.poshthemes

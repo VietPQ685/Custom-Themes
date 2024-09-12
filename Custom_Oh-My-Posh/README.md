@@ -37,7 +37,8 @@ rm ~/.poshthemes/themes.zip
 ## Custom Themes
 - You can use available themes in `~/.poshthemes` or custom themes for youself
 - The following is a theme I customized myself
-    - Open `~/.poshthemes` and create file `viet.omp.json`
+    - Download [`viet.omp.json`](https://github.com/VietPQ685/Custom-Themes/blob/main/Custom_Oh-My-Posh/viet.omp.json)
+    - Open `~/.poshthemes` and paste file `viet.omp.json` inside
 
 
 ## Use Ohmyposh Themes

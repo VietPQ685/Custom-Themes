@@ -22,6 +22,7 @@ mkdir ~/.config
 ```
 git clone https://github.com/VietPQ685/Custom-Themes
 ```
+Hoặc bạn có thể tải thủ công trên Github
 - Mở Folder vừa tải, vào Folder `Custom_NVim`, copy Folder `nvim` và paste vào Folder `.config` vừa tạo ở trên hoặc bên trong Folder `Local`
 - Trong Folder `nvim` tạo một Folder `plugged`
 - Sau đó cài `git`, `nodejs`, `python` (có thể xem hướng dẫn trên mạng vẫn ok)

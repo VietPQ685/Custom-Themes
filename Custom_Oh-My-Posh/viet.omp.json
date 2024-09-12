@@ -1,0 +1,100 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "palette": {
+    "transparent_color": "#ffffff00"
+  },
+  "blocks": [
+    {
+      "alignment": "left",
+      "segments": [
+          {
+            "foreground": "#D6DEEB",
+            // "foreground": "green",
+            "style": "plain",
+            "template": "\u256d\u2500",
+            "type": "text"
+          },
+          {
+            "background": "#58aac4",
+            "foreground": "#f8f8f2",
+            "leading_diamond": "\ue0b6",
+            "style": "diamond",
+            "template": " {{.Icon}} ",
+            "type": "os",
+            "trailing_diamond": "\ue0b0"
+          },
+          {
+            "background": "#6272a4",
+            "foreground": "#f8f8f2",
+            "style": "diamond",
+            "template": " {{ .UserName }}@{{ .HostName }} ",
+            "type": "session"
+          },
+          {
+            "background": "#bd93f9",
+            "foreground": "#f8f8f2",
+            "powerline_symbol": "\ue0b0",
+            "properties": {
+              "style": "folder"
+            },
+            "style": "powerline",
+            "template": " {{ .Path }} ",
+            "type": "path"
+          },
+          {
+            "background": "#ffb86c",
+            "foreground": "#f8f8f2",
+            "powerline_symbol": "\ue0b0",
+            "properties": {
+              "branch_icon": "",
+              "fetch_stash_count": true,
+              "fetch_status": false,
+              "fetch_upstream_icon": true
+            },
+            "style": "powerline",
+            "template": " \ue725 ({{ .UpstreamIcon }}{{ .HEAD }}{{ if gt .StashCount 0 }} \ueb4b {{ .StashCount }}{{ end }}) ",
+            "type": "git"
+          },
+          {
+            "background": "#ff79c6",
+            "foreground": "#f8f8f2",
+            "properties": {
+              "time_format": "15:04"
+            },
+            "style": "diamond",
+            "template": " \u2665  {{ .CurrentDate | date .Format }} ",
+            "trailing_diamond": "\ue0b0",
+            "type": "time"
+          }
+        ],
+        "type": "prompt"
+    },
+    {
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+        {
+          "foreground": "#D6DEEB",
+          "style": "plain",
+          "template": "\u2570\u2500",
+          "type": "text"
+        },
+        {
+          "foreground": "#ffffff",
+          "style": "plain",
+          "properties": {
+            "always_enabled": true
+          },
+          "template": "<#8BE9FD>\u276f</><#ff79c6>\u276f</>", // hình hai mũi tên
+          // "template": "<green><b>\u26a1</b>", // hình tia sét
+          // "template": "<green><b>\uf0e7</b>", // hình tia sét đặc ruột
+          // "template": "<green>$", // hình $
+          "type": "text"
+        }
+      ],
+      "type": "prompt"
+    }
+  ],
+  "final_space": true,
+  "version": 2
+}

@@ -9,7 +9,6 @@
       "segments": [
           {
             "foreground": "#D6DEEB",
-            // "foreground": "green",
             "style": "plain",
             "template": "\u256d\u2500",
             "type": "text"
@@ -85,7 +84,7 @@
           "properties": {
             "always_enabled": true
           },
-          "template": "<#8BE9FD>\u276f</><#ff79c6>\u276f</>", // hình hai mũi tên
+          "template": "<#8BE9FD>></><#ff79c6>></>", // hình hai mũi tên
           // "template": "<green><b>\u26a1</b>", // hình tia sét
           // "template": "<green><b>\uf0e7</b>", // hình tia sét đặc ruột
           // "template": "<green>$", // hình $

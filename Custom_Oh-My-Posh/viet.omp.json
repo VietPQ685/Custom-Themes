@@ -84,10 +84,7 @@
           "properties": {
             "always_enabled": true
           },
-          "template": "<#8BE9FD>></><#ff79c6>></>", // hình hai mũi tên
-          // "template": "<green><b>\u26a1</b>", // hình tia sét
-          // "template": "<green><b>\uf0e7</b>", // hình tia sét đặc ruột
-          // "template": "<green>$", // hình $
+          "template": "<green><b>\u26a1</b>", // hình tia sét // you can change this
           "type": "text"
         }
       ],

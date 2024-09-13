@@ -1,8 +1,5 @@
 {
   "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
-  "palette": {
-    "transparent_color": "#ffffff00"
-  },
   "blocks": [
     {
       "alignment": "left",
@@ -19,25 +16,26 @@
             "leading_diamond": "\ue0b6",
             "style": "diamond",
             "template": " {{.Icon}} ",
-            "type": "os",
-            "trailing_diamond": "\ue0b0"
+            "trailing_diamond": "\ue0b0",
+            "type": "os"
           },
           {
             "background": "#6272a4",
             "foreground": "#f8f8f2",
             "style": "diamond",
             "template": " {{ .UserName }}@{{ .HostName }} ",
+            "trailing_diamond": "\ue0b0",
             "type": "session"
           },
           {
             "background": "#bd93f9",
             "foreground": "#f8f8f2",
-            "powerline_symbol": "\ue0b0",
             "properties": {
-              "style": "folder"
+              "style": "full"
             },
-            "style": "powerline",
+            "style": "diamond",
             "template": " {{ .Path }} ",
+            "trailing_diamond": "\ue0b0",
             "type": "path"
           },
           {
@@ -50,8 +48,9 @@
               "fetch_status": false,
               "fetch_upstream_icon": true
             },
-            "style": "powerline",
+            "style": "diamond",
             "template": " \ue725 ({{ .UpstreamIcon }}{{ .HEAD }}{{ if gt .StashCount 0 }} \ueb4b {{ .StashCount }}{{ end }}) ",
+            "trailing_diamond": "\ue0b0",
             "type": "git"
           },
           {

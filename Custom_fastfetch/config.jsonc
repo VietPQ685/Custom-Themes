@@ -6,9 +6,9 @@
     // "source": "~/.config/fastfetch/ISP.txt",
     // "color": {"1": "blue"},
     // "source": "~/.config/fastfetch/Arsenal.txt",
-    "source": "~/.config/fastfetch/Cannon.txt",
+    // "source": "~/.config/fastfetch/Cannon.txt",
     // "source": "~/.config/fastfetch/test.txt",
-    "color": {"1": "white"},
+    // "color": {"1": "white"},
   },
   "modules": [
     {

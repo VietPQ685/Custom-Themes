@@ -22,5 +22,15 @@ fastfetch
 # Costum fastfetch
 - In `.config`, open `fastfetch` and open `config.jsonc` to custom fastfetch
 - Copy this file [custom_file][1] into `config.jsonc`
+- .txt files are my customization files
 
 [1]: <https://github.com/VietPQ685/custom-themes/blob/main/Custom_fastfetch/config.jsonc>
+
+
+# Some website create ASCII art
+```
+https://katiefrogs.github.io/Dots-Converter/retro.html
+```
+```
+https://www.asciiart.eu/
+```

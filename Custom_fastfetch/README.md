@@ -19,7 +19,7 @@ fastfetch
 - Delete `fastfetch` if you want to remove it
 
 
-# Costum fastfetch
+# Custum fastfetch
 - In `.config`, open `fastfetch` and open `config.jsonc` to custom fastfetch
 - Copy this file [custom_file][1] into `config.jsonc`
 - .txt files are my customization files

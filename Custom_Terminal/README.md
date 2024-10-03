@@ -6,7 +6,7 @@
 - Copy file [`Settings`](https://github.com/VietPQ685/custom-themes/blob/main/Custom_Terminal/settings.json) copy all and paste to file settings.json
 - Use Nerd Font
 
-### Some cool terminal tool
+### Some cool terminal tools
 - tmux
 ```
 sudo apt install tmux

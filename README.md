@@ -6,4 +6,4 @@
 > Remember to change the file path
 
 ### Things I Like
-> Install BigSur Cursor: ['BigSur Cursor](https://drive.google.com/file/d/1jtKxIwZqpn3Jcq1RTOWetOjnN-QJcJMd/view?usp=sharing)
+> Install BigSur Cursor: [`BigSur Cursor`](https://drive.google.com/file/d/1jtKxIwZqpn3Jcq1RTOWetOjnN-QJcJMd/view?usp=sharing)

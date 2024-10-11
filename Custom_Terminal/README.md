@@ -6,7 +6,7 @@
 - Copy file [`Settings`](https://github.com/VietPQ685/custom-themes/blob/main/Custom_Terminal/settings.json) copy all and paste to file settings.json
 - Use Nerd Font
 
-### Some cool terminal tools
+### Some cool terminal tools (These commands are intended for Debian-based systems)
 - tmux
 ```
 sudo apt install tmux
@@ -28,4 +28,8 @@ sudo make install
 - cbonsai
 ```
 sudo apt install cbonsai
+```
+- cowsay
+```
+sudo apt install cowsay
 ```

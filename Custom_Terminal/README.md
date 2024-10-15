@@ -33,3 +33,7 @@ sudo apt install cbonsai
 ```
 sudo apt install cowsay
 ```
+- cava
+```
+sudo apt install cava
+```

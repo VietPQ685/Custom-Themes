@@ -21,7 +21,7 @@ sudo ./install.sh
 ```
 
 ## How to use anime-colorscripts
-- Write the following text into the Terminal to display random anime character
+- Write the following command into the Terminal to display random anime character
 ```
 anime-colorscripts -r
 ```

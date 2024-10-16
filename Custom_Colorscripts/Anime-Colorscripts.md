@@ -2,6 +2,9 @@
 
 ## Install anime-colorscripts
 ```
+sudo apt install python3 python3-pip
+```
+```
 git clone https://github.com/mizuday/anime-colorscripts.git
 ```
 ```

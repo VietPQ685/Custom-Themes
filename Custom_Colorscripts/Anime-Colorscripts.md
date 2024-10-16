@@ -20,9 +20,8 @@ cd anime-colorscripts
 sudo ./install.sh
 ```
 
-## Add/Remove anime-colorscripts
-- In Folder home, find file .bashrc
-- Write the following text at the end of the file to display random anime character when opening Terminal
+## How to use anime-colorscripts
+- Write the following text to display random anime character
 ```
 anime-colorscripts -r
 ```

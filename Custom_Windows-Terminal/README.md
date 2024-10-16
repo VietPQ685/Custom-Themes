@@ -33,13 +33,3 @@ sudo apt install cbonsai
 ```
 sudo apt install cowsay
 ```
-- cava
-```
-sudo apt install cava
-```
-- pokemon-colorscripts
-```
-git clone https://gitlab.com/phoneybadger/pokemon-colorscripts.git
-cd pokemon-colorscripts
-sudo ./install.sh
-```

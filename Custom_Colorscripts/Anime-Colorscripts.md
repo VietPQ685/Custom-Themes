@@ -5,7 +5,7 @@
 sudo apt install python3 python3-pip python3-numpy python3-scipy python3-pillow
 ```
 ```
-pip3 install bs4 scikit-image
+pip install bs4 scikit-image
 ```
 ```
 git clone https://github.com/mizuday/anime-colorscripts.git

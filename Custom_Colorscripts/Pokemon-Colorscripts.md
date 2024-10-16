@@ -12,7 +12,7 @@ sudo ./install.sh
 ```
 
 ## How to use pokemon-colorscripts
-- Write the following text into the Terminal to display random Pokémon without names and use their shiny forms
+- Write the following command into Terminal to display random Pokémon without names and use their shiny forms
 ```
 pokemon-colorscripts --no-title -s -r
 ```

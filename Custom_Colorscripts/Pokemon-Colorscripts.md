@@ -1,4 +1,4 @@
-# Custom_Pokemon-Colorscripts
+# Pokemon-Colorscripts
 
 ## Install pokemon-colorscripts
 ```

@@ -26,3 +26,6 @@ sudo ./install.sh
 ```
 anime-colorscripts -r
 ```
+
+### Source
+> [Anime Colorscripts](https://github.com/juanlouisr/anime-colorscripts)

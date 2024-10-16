@@ -11,9 +11,8 @@ cd pokemon-colorscripts
 sudo ./install.sh
 ```
 
-## Add/Remove pokemon-colorscripts
-- In Folder home, find file .bashrc
-- Write the following text at the end of the file to display random pokemon when opening Terminal
+## How to use pokemon-colorscripts
+- Write the following text into the Terminal to display random Pokémon without names and use their shiny forms
 ```
 pokemon-colorscripts --no-title -s -r
 ```

@@ -10,13 +10,11 @@ fastfetch --gen-config
 - Config file will be in `~/.config/fastfetch`
 
 
-# Add/Remove fastfetch
-- In Folder home, find file `.bashrc`
-- Write the following text at the end of the file to display fastfetch when opening Terminal
+# How to use fastfetch
+- Write the following command into Terminal to display fastfetch
 ```
 fastfetch
 ```
-- Delete `fastfetch` if you want to remove it
 
 
 # Custum fastfetch

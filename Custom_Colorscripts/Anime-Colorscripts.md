@@ -1,4 +1,4 @@
-# Custom_Anime-Colorscripts
+# Anime-Colorscripts
 
 ## Install anime-colorscripts
 ```

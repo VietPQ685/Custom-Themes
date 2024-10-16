@@ -45,7 +45,7 @@ rm ~/.poshthemes/themes.zip
 
 ## Use Ohmyposh Themes
 - Open file `.bashrc` (path address: `~/.bashrc`)
-- Write the text below to use Ohmyposh Themes
+- Write the command below to use Ohmyposh Themes
 ```
 eval "$(oh-my-posh init bash --config ~/.poshthemes/viet.omp.json)"
 ```

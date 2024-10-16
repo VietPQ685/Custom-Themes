@@ -5,6 +5,9 @@
 sudo apt install python3 python3-pip
 ```
 ```
+pip install bs4
+```
+```
 git clone https://github.com/mizuday/anime-colorscripts.git
 ```
 ```

@@ -24,5 +24,5 @@ sudo ./install.sh
 - In Folder home, find file .bashrc
 - Write the following text at the end of the file to display random anime character when opening Terminal
 ```
-anime-colorscripts --no-title -s -r
+anime-colorscripts -r
 ```

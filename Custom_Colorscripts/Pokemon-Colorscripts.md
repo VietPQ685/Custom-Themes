@@ -18,4 +18,4 @@ sudo ./install.sh
 pokemon-colorscripts --no-title -s -r
 ```
 ### Source
-> [Pokemon-Colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)
+> [Pokemon Colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)

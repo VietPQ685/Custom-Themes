@@ -29,3 +29,4 @@
   - Power Mode
   - Prettier - Code formatter
   - vscode-pdf
+  - Debug Visualizer

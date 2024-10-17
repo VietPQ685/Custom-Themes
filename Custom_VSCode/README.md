@@ -30,3 +30,7 @@
   - Prettier - Code formatter
   - vscode-pdf
   - Debug Visualizer
+
+## Fix some errors
+- Markdown files cannot be typed in Vietnamese
+  - Use `Ctrl + K + S`, find `markdown.extension.onBackspaceKey` and delete it

@@ -3,7 +3,7 @@
 - Open `Windows Terminal`
 - Open `Settings` (you can use `ctrl + ,`)
 - Clink `Open JSON file`
-- Copy file [`Settings`](Custom_Windows-Terminal/settings.json) copy all and paste to file settings.json
+- Copy file [`Settings`](https://github.com/VietPQ685/Custom-Themes/blob/main/Custom_Windows-Terminal/settings.json) copy all and paste to file settings.json
 - Use Nerd Font
 
 ### Some cool terminal tools (These commands are intended for Debian-based systems)

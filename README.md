@@ -1,7 +1,7 @@
 # CUSTOM_THEMES
 
 ### Necessary
-> Install Nerd Font: [`JetBrainsMono Nerd Font`](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip)
+> Install Nerd Font: [`JetBrainsMono Nerd Font`](https://drive.google.com/file/d/1G5Ee6Pqr80bf7SnpKziaUt5Bp1V37s5A/view?usp=sharing)
 
 > Remember to change the file path
 

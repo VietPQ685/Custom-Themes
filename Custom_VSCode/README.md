@@ -9,27 +9,15 @@
 
 # Some necessary Extensions
 
-- Open `Extensions`
-- Download:
-  - Auto Import
-  - Code Runner
-  - CodeSnap
-  - Competitive Programming Helper (cph)
-  - CSS Peek
-  - Custom CSS and JS Loader
-  - Dracule Theme Official
-  - Fix VSCode Checksums
-  - HTML to CSS autocompletion
-  - indent-rainbow
-  - IntelliCode
-  - Live Server
-  - Live Server Preview
-  - Markdown All in One
-  - Material Icon Theme
-  - Power Mode
-  - Prettier - Code formatter
-  - vscode-pdf
-  - Debug Visualizer
+- Download file [`extensions`](https://github.com/VietPQ685/Custom-Themes/blob/main/Custom_VSCode/extensions.json) and paste into any .vscode folder
+- Open VSCode, go to Extensions and download extensions in `RECOMMENDED`
+
+### How to get name extensions
+- Run the following command in CMD or PowerShell
+```
+code --list-extensions > extensions.txt
+```
+- Open extensions.txt in your current directory, inside is your VSCode Extensions list
 
 ## Fix some errors
 - Markdown files cannot be typed in Vietnamese

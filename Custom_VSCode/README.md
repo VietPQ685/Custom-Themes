@@ -12,7 +12,7 @@
 - Download file [`extensions`](https://github.com/VietPQ685/Custom-Themes/blob/main/Custom_VSCode/extensions.json) and paste into any .vscode folder
 - Open .vscode folder in VSCode and go to Extensions, download extensions in `RECOMMENDED`
 
-### How to get name extensions
+### How to get name of extensions
 - Run the following command in CMD or PowerShell
 ```
 code --list-extensions > extensions.txt

@@ -17,3 +17,6 @@
 ### You can follow the steps below to find the exact extensions
 - Download file [`extensions`](https://github.com/VietPQ685/Custom-Themes/blob/main/Custom_VSCode/extensions.json) and paste into any `.vscode` folder
 - Open .vscode folder in VSCode and go to Extensions, download extensions in `RECOMMENDED`
+
+### How to use Custom CSS and JS Loader
+- Use `Ctrl + Shift + P` or `F1` and find `Enable Custom CSS and JS`

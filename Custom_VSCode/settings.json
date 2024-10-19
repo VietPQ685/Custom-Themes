@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Dracula Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "JetBrainsMono Nerd Font, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/phungviet/Documents/vscode/custom/custom.css"
+    ],
+    "indentRainbow.colors": [
+        "rgba(157, 78, 221, 0.1)",
+        "rgba(123, 44, 191, 0.1)",
+        "rgba(90, 24, 154, 0.1)",
+        "rgba(60, 9, 108, 0.1)",
+        "rgba(36, 0, 70, 0.1)",
+    ],
+    "editor.cursorSmoothCaretAnimation": "on",
+    "powermode.enabled": true,
+    "powermode.combo.location": "statusbar",
+    "powermode.combo.counterEnabled": "hide",
+    "powermode.combo.timerEnabled": "hide",
+    "powermode.shake.enabled": false,
+}

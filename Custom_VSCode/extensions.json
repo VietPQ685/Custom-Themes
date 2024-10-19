@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "be5invis.vscode-custom-css",
+        "dracula-theme.theme-dracula",
+        "hoovercj.vscode-power-mode",
+        "oderwat.indent-rainbow",
+        "pkief.material-icon-theme",
+    ]
+}

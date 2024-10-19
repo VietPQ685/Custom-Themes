@@ -1,11 +1,3 @@
-/* .class {
-    color: transparent;
-    background-image: linear-gradient(to right top, #fa7cbb 80%, #ff2d96);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-} */
-
 @keyframes bg-animation {
     0% {background-position: right}
     100% {background-position: left}
@@ -40,18 +32,3 @@
         background-size: 300%;
         animation: bg-animation 3s infinite alternate;
 }
-
-
-/* .monaco-workbench 
-    .part.statusbar
-    > .left-items {
-        color: transparent;
-        background-image: linear-gradient(to right, #355c7d, #6c5b7b);
-}
-
-.monaco-workbench
-    .part.statusbar
-    > .right-items {
-        color: transparent;
-        background-image: linear-gradient(to right, #6c5b7b, #c06c84)
-} */

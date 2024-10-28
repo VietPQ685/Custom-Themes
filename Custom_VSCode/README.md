@@ -20,3 +20,15 @@
 
 ### How to use Custom CSS and JS Loader
 - Use `Ctrl + Shift + P` or `F1` and find `Enable Custom CSS and JS`
+
+
+### Custom Auto Theme VSCode
+- I use `Github Theme`: GitHub.github-vscode-theme
+- Download `Auto Day Night Theme Switcher`: jakobjw.auto-day-night-theme-switcher
+- Paste the following code to `settings.json`
+```
+    "autoDayNightThemeSwitcher.autoToggleTimeNightBegin": "17:00",
+    "autoDayNightThemeSwitcher.nightTheme": "GitHub Dark Dimmed",
+    "autoDayNightThemeSwitcher.autoToggleTimeNightEnd": "7:00",
+    "autoDayNightThemeSwitcher.dayTheme": "GitHub Light Default",
+```

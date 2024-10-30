@@ -25,20 +25,7 @@ git clone https://github.com/VietPQ685/Custom-Themes
 Hoặc bạn có thể tải thủ công trên Github
 - Mở Folder vừa tải, vào Folder `Custom_NVim`, copy Folder `nvim` và paste vào Folder `.config` vừa tạo ở trên hoặc bên trong Folder `Local`
 - Trong Folder `nvim` tạo một Folder `plugged`
-- Sau đó cài `git`, `nodejs`, `python` (có thể xem hướng dẫn trên mạng vẫn ok)
-  - Link hướng dẫn cài git của anh Việt Nguyễn IT: [video hướng dẫn cài git](https://youtu.be/gxYajhD2bOE?si=qfZNXYbdfqEstS0l)
-
-  - Python thì cứ lên web xong cài như bình thường là được
-
-  - Nodejs thì phức tạp hơn xíu
-    - Nếu dùng NVim Win chỉ cần cài Nodejs ở trên web là được
-    - Nếu dùng trên Linux thì cần cài theo cách sau đây:
-```
-sudo apt install nodejs
-```
-```
-sudo apt install npm
-```
+- Sau đó cài `git`, `nodejs`, `npm`, `python` (có thể xem hướng dẫn trên mạng vẫn ok)
 - Sau đó dùng các dòng lệnh dưới đây để kiểm tra các phiên bản:
 ```
 git --version

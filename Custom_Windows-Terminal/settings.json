@@ -62,13 +62,6 @@
         "list": 
         [
             {
-                "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
-                "hidden": false,
-                "icon": "C:\\Users\\phungviet\\Documents\\icon\\kali-linux-logo.png",
-                "name": "Kali Linux",
-                "source": "Windows.Terminal.Wsl"
-            },
-            {
                 "commandline": "%SystemRoot%\\System32\\cmd.exe",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,

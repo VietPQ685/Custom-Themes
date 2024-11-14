@@ -4,54 +4,18 @@
     "source": "Auto",
   },
   "modules": [
-    {
-      "type": "title",
-      "color": {"user": "italic_blue", "at": "italic_white", "host": "italic_blue"},
-    },
+    "type": "title",
     "separator",
-    "break",
-    {
-      "type": "os",
-      "keyColor": "blue",
-    },
-    {
-      "type": "host",
-      "keyColor": "blue",
-    },
-    {
-      "type": "kernel",
-      "keyColor": "blue",
-    },
-    {
-      "type": "shell",
-      "keyColor": "blue",
-    },
-    {
-      "type": "display",
-      "keyColor": "blue",
-      "format": "{1}x{2} @ 165Hz"
-    },
-    {
-      "type": "cpu",
-      "keyColor": "blue",
-    },
-    {
-      "type": "gpu",
-      "keyColor": "blue",
-      "format": "{2}"
-    },
-    {
-      "type": "disk",
-      "keyColor": "blue",
-    },
-    {
-      "type": "memory",
-      "keyColor": "blue",
-    },
-    {
-      "type": "terminal",
-      "keyColor": "blue",
-    },
+    "type": "os",
+    "type": "host",
+    "type": "kernel",
+    "type": "shell",
+    "type": "display",
+    "type": "cpu",
+    "type": "gpu",
+    "type": "disk",
+    "type": "memory",
+    "type": "terminal",
     "break",
     "colors",
     "break",

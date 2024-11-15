@@ -90,11 +90,6 @@
       "type": "prompt"
     }
   ],
-  "transient_prompt": {
-    "background": "transparent",
-    "foreground": "#ffffff",
-    "template": "<#fef5ed><b>\ue285<b> <green><b>\ue285<b> <#bd93f9><b>\ue285 <b>"
-  },
-  "version": 2
   "final_space": true,
+  "version": 2
 }

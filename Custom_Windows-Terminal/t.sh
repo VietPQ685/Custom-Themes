@@ -9,7 +9,5 @@ if [ $? -ne 0 ]; then
 if
 
 echo "LANG=en_US.UTF-8" | sudo tee /etc/locale.conf
-echo "LC_ALL=en_US.UTF-8" | sudo tee -a /etc/locale.conf
 
 export LANG=en_US.UTF-8
-export LC_ALL=en_US.UTF-8
